@@ -1,5 +1,5 @@
 # minimal_weather_app
-<<<<<<< HEAD
+
 
 A new Flutter project.
 
@@ -17,4 +17,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 Flutter weather app.
->>>>>>> 186d9d9801b071ac50fad658c580885d8b296093
+
